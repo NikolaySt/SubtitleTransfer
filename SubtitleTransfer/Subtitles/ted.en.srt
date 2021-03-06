@@ -1,0 +1,1446 @@
+﻿1
+00:00:13,252 --> 00:00:15,958
+Looking deeply inside nature,
+
+2
+00:00:15,982 --> 00:00:19,070
+through the magnifying glass of science,
+
+3
+00:00:19,095 --> 00:00:22,676
+designers extract principles,
+processes and materials
+
+4
+00:00:22,700 --> 00:00:25,814
+that are forming the very basis
+of design methodology.
+
+5
+00:00:27,252 --> 00:00:32,327
+From synthetic constructs
+that resemble biological materials,
+
+6
+00:00:32,351 --> 00:00:35,718
+to computational methods
+that emulate neural processes,
+
+7
+00:00:35,743 --> 00:00:38,208
+nature is driving design.
+
+8
+00:00:39,398 --> 00:00:41,200
+Design is also driving nature.
+
+9
+00:00:42,128 --> 00:00:45,863
+In realms of genetics, regenerative
+medicine and synthetic biology,
+
+10
+00:00:45,887 --> 00:00:48,592
+designers are growing novel technologies,
+
+11
+00:00:48,616 --> 00:00:51,693
+not foreseen or anticipated by nature.
+
+12
+00:00:53,140 --> 00:00:59,083
+Bionics explores the interplay
+between biology and design.
+
+13
+00:00:59,107 --> 00:01:02,002
+As you can see, my legs are bionic.
+
+14
+00:01:02,990 --> 00:01:08,514
+Today, I will tell human stories
+of bionic integration;
+
+15
+00:01:08,538 --> 00:01:14,237
+how electromechanics attached
+to the body, and implanted inside the body
+
+16
+00:01:14,261 --> 00:01:18,975
+are beginning to bridge the gap
+between disability and ability,
+
+17
+00:01:18,999 --> 00:01:23,808
+between human limitation
+and human potential.
+
+18
+00:01:24,681 --> 00:01:27,363
+Bionics has defined my physicality.
+
+19
+00:01:28,228 --> 00:01:30,679
+In 1982, both of my legs were amputated
+
+20
+00:01:30,704 --> 00:01:32,808
+due to tissue damage from frostbite,
+
+21
+00:01:32,832 --> 00:01:35,083
+incurred during
+a mountain-climbing accident.
+
+22
+00:01:35,950 --> 00:01:39,537
+At that time, I didn't
+view my body as broken.
+
+23
+00:01:40,417 --> 00:01:44,758
+I reasoned that a human being
+can never be "broken."
+
+24
+00:01:45,655 --> 00:01:47,584
+Technology is broken.
+
+25
+00:01:48,409 --> 00:01:50,742
+Technology is inadequate.
+
+26
+00:01:51,638 --> 00:01:56,096
+This simple but powerful idea
+was a call to arms,
+
+27
+00:01:56,120 --> 00:02:00,627
+to advance technology
+for the elimination of my own disability,
+
+28
+00:02:00,651 --> 00:02:03,143
+and ultimately, the disability of others.
+
+29
+00:02:04,460 --> 00:02:07,417
+I began by developing specialized limbs
+
+30
+00:02:07,442 --> 00:02:09,902
+that allowed me to return
+to the vertical world
+
+31
+00:02:09,926 --> 00:02:11,394
+of rock and ice climbing.
+
+32
+00:02:11,418 --> 00:02:16,036
+I quickly realized that the artificial
+part of my body is malleable;
+
+33
+00:02:16,060 --> 00:02:20,410
+able to take on any form, any function --
+
+34
+00:02:20,434 --> 00:02:23,373
+a blank slate for which to create,
+
+35
+00:02:23,397 --> 00:02:28,565
+perhaps, structures that could extend
+beyond biological capability.
+
+36
+00:02:29,391 --> 00:02:30,741
+I made my height adjustable.
+
+37
+00:02:30,765 --> 00:02:33,445
+I could be as short as five feet
+or as tall as I'd like.
+
+38
+00:02:33,469 --> 00:02:35,898
+(Laughter)
+
+39
+00:02:35,922 --> 00:02:39,272
+So when I was feeling bad about myself,
+
+40
+00:02:39,296 --> 00:02:41,132
+insecure, I would jack my height up.
+
+41
+00:02:41,157 --> 00:02:43,038
+(Laughter)
+
+42
+00:02:43,062 --> 00:02:45,259
+But when I was feeling
+confident and suave,
+
+43
+00:02:45,283 --> 00:02:49,052
+I would knock my height down a notch,
+just to give the competition a chance.
+
+44
+00:02:49,076 --> 00:02:51,171
+(Laughter)
+
+45
+00:02:51,195 --> 00:02:53,298
+(Applause)
+
+46
+00:02:53,322 --> 00:02:56,591
+Narrow-edged feet allowed me
+to climb steep rock fissures,
+
+47
+00:02:56,615 --> 00:02:59,217
+where the human foot cannot penetrate,
+
+48
+00:02:59,241 --> 00:03:03,423
+and spiked feet enabled me
+to climb vertical ice walls,
+
+49
+00:03:03,447 --> 00:03:06,320
+without ever experiencing
+muscle leg fatigue.
+
+50
+00:03:07,399 --> 00:03:09,589
+Through technological innovation,
+
+51
+00:03:09,613 --> 00:03:12,454
+I returned to my sport,
+stronger and better.
+
+52
+00:03:12,478 --> 00:03:15,061
+Technology had eliminated my disability,
+
+53
+00:03:15,085 --> 00:03:17,427
+and allowed me a new climbing prowess.
+
+54
+00:03:17,451 --> 00:03:21,013
+As a young man, I imagined a future world
+where technology so advanced
+
+55
+00:03:21,038 --> 00:03:22,820
+could rid the world of disability,
+
+56
+00:03:22,844 --> 00:03:24,940
+a world in which neural
+implants would allow
+
+57
+00:03:24,964 --> 00:03:26,613
+the visually impaired to see.
+
+58
+00:03:27,026 --> 00:03:31,359
+A world in which the paralyzed
+could walk, via body exoskeletons.
+
+59
+00:03:32,645 --> 00:03:35,423
+Sadly, because of
+deficiencies in technology,
+
+60
+00:03:35,447 --> 00:03:37,181
+disability is rampant in the world.
+
+61
+00:03:37,205 --> 00:03:39,213
+This gentleman is missing three limbs.
+
+62
+00:03:39,903 --> 00:03:43,726
+As a testimony to current technology,
+he is out of the wheelchair,
+
+63
+00:03:43,750 --> 00:03:49,671
+but we need to do a better job in bionics,
+to allow, one day, full rehabilitation
+
+64
+00:03:49,695 --> 00:03:52,900
+for a person with this level of injury.
+
+65
+00:03:53,876 --> 00:03:57,455
+At the MIT Media Lab, we've established
+the Center for Extreme Bionics.
+
+66
+00:03:57,479 --> 00:04:02,027
+The mission of the center
+is to put forth fundamental science
+
+67
+00:04:02,051 --> 00:04:03,887
+and technological capability
+
+68
+00:04:03,911 --> 00:04:07,658
+that will allow the biomechatronic
+and regenerative repair of humans,
+
+69
+00:04:07,682 --> 00:04:12,602
+across a broad range
+of brain and body disabilities.
+
+70
+00:04:13,707 --> 00:04:17,444
+Today, I'm going to tell you
+how my legs function, how they work,
+
+71
+00:04:17,468 --> 00:04:20,746
+as a case in point for this center.
+
+72
+00:04:20,769 --> 00:04:22,897
+Now, I made sure to shave
+my legs last night,
+
+73
+00:04:22,921 --> 00:04:24,868
+because I knew I'd be showing them off.
+
+74
+00:04:24,892 --> 00:04:26,341
+(Laughter)
+
+75
+00:04:26,365 --> 00:04:29,595
+Bionics entails the engineering
+of extreme interfaces.
+
+76
+00:04:29,619 --> 00:04:32,491
+There's three extreme
+interfaces in my bionic limbs:
+
+77
+00:04:32,515 --> 00:04:36,594
+mechanical, how my limbs
+are attached to my biological body;
+
+78
+00:04:36,619 --> 00:04:39,918
+dynamic, how they move
+like flesh and bone;
+
+79
+00:04:39,942 --> 00:04:42,832
+and electrical, how they communicate
+with my nervous system.
+
+80
+00:04:42,856 --> 00:04:45,102
+I'll begin with mechanical interface.
+
+81
+00:04:45,904 --> 00:04:49,046
+In the area of design,
+we still do not understand
+
+82
+00:04:49,071 --> 00:04:51,947
+how to attach devices
+to the body mechanically.
+
+83
+00:04:53,185 --> 00:04:56,328
+It's extraordinary to me
+that in this day and age,
+
+84
+00:04:56,352 --> 00:04:58,676
+one of the most mature,
+oldest technologies
+
+85
+00:04:58,701 --> 00:05:03,097
+in the human timeline, the shoe,
+still gives us blisters.
+
+86
+00:05:03,121 --> 00:05:04,578
+How can this be?
+
+87
+00:05:04,602 --> 00:05:07,554
+We have no idea how to attach
+things to our bodies.
+
+88
+00:05:08,364 --> 00:05:11,268
+This is the beautifully
+lyrical design work
+
+89
+00:05:11,293 --> 00:05:13,714
+of Professor Neri Oxman
+at the MIT Media Lab,
+
+90
+00:05:13,738 --> 00:05:17,162
+showing spatially varying
+exoskeletal impedances,
+
+91
+00:05:17,186 --> 00:05:21,200
+shown here by color variation
+in this 3D-printed model.
+
+92
+00:05:21,811 --> 00:05:26,335
+Imagine a future where clothing
+is stiff and soft where you need it,
+
+93
+00:05:26,359 --> 00:05:29,888
+when you need it, for optimal
+support and flexibility,
+
+94
+00:05:29,913 --> 00:05:31,588
+without ever causing discomfort.
+
+95
+00:05:32,112 --> 00:05:35,534
+My bionic limbs are attached
+to my biological body
+
+96
+00:05:35,558 --> 00:05:39,620
+via synthetic skins
+with stiffness variations,
+
+97
+00:05:39,644 --> 00:05:43,264
+that mirror my underlying
+tissue biomechanics.
+
+98
+00:05:44,359 --> 00:05:47,532
+To achieve that mirroring, we first
+developed a mathematical model
+
+99
+00:05:47,557 --> 00:05:49,105
+of my biological limb.
+
+100
+00:05:49,129 --> 00:05:52,411
+To that end, we used
+imaging tools such as MRI,
+
+101
+00:05:52,435 --> 00:05:53,999
+to look inside my body,
+
+102
+00:05:54,023 --> 00:05:57,728
+to figure out the geometries
+and locations of various tissues.
+
+103
+00:05:57,752 --> 00:05:59,139
+We also took robotic tools --
+
+104
+00:05:59,163 --> 00:06:04,074
+here's a 14-actuator circle
+that goes around the biological limb.
+
+105
+00:06:04,891 --> 00:06:07,439
+The actuators come in,
+find the surface of the limb,
+
+106
+00:06:07,463 --> 00:06:09,708
+measure its unloaded shape,
+
+107
+00:06:09,732 --> 00:06:11,383
+and then they push on the tissues
+
+108
+00:06:11,407 --> 00:06:14,978
+to measure tissue compliances
+at each anatomical point.
+
+109
+00:06:15,542 --> 00:06:17,789
+We combine these imaging and robotic data
+
+110
+00:06:17,813 --> 00:06:21,455
+to build a mathematical description
+of my biological limb, shown on the left.
+
+111
+00:06:21,479 --> 00:06:23,233
+You see a bunch of points, or nodes?
+
+112
+00:06:23,257 --> 00:06:26,407
+At each node, there's a color
+that represents tissue compliance.
+
+113
+00:06:26,431 --> 00:06:30,373
+We then do a mathematical transformation
+to the design of the synthetic skin,
+
+114
+00:06:30,397 --> 00:06:31,596
+shown on the right.
+
+115
+00:06:32,088 --> 00:06:34,492
+And we've discovered optimality is:
+
+116
+00:06:34,516 --> 00:06:37,373
+where the body is stiff,
+the synthetic skin should be soft,
+
+117
+00:06:37,397 --> 00:06:40,857
+where the body is soft,
+the synthetic skin is stiff,
+
+118
+00:06:40,881 --> 00:06:44,164
+and this mirroring occurs
+across all tissue compliances.
+
+119
+00:06:44,720 --> 00:06:47,481
+With this framework,
+we've produced bionic limbs
+
+120
+00:06:47,505 --> 00:06:50,426
+that are the most comfortable
+limbs I've ever worn.
+
+121
+00:06:51,077 --> 00:06:57,166
+Clearly, in the future, our clothing,
+our shoes, our braces, our prostheses,
+
+122
+00:06:57,190 --> 00:07:00,846
+will no longer be designed
+and manufactured using artisan strategies,
+
+123
+00:07:00,870 --> 00:07:04,074
+but rather, data-driven
+quantitative frameworks.
+
+124
+00:07:04,098 --> 00:07:08,302
+In that future, our shoes
+will no longer give us blisters.
+
+125
+00:07:09,040 --> 00:07:11,937
+We're also embedding
+sensing and smart materials
+
+126
+00:07:11,961 --> 00:07:13,532
+into the synthetic skins.
+
+127
+00:07:13,556 --> 00:07:18,024
+This is a material developed
+by SRI International, California.
+
+128
+00:07:18,048 --> 00:07:21,036
+Under electrostatic effect,
+it changes stiffness.
+
+129
+00:07:21,349 --> 00:07:24,674
+So under zero voltage,
+the material is compliant,
+
+130
+00:07:24,698 --> 00:07:26,072
+it's floppy like paper.
+
+131
+00:07:26,096 --> 00:07:28,564
+Then the button's pushed,
+a voltage is applied,
+
+132
+00:07:28,588 --> 00:07:30,580
+and it becomes stiff as a board.
+
+133
+00:07:30,604 --> 00:07:32,722
+(Tapping sounds)
+
+134
+00:07:33,666 --> 00:07:36,314
+We embed this material
+into the synthetic skin
+
+135
+00:07:36,338 --> 00:07:39,447
+that attaches my bionic limb
+to my biological body.
+
+136
+00:07:39,888 --> 00:07:42,318
+When I walk here, it's no voltage.
+
+137
+00:07:42,342 --> 00:07:44,399
+My interface is soft and compliant.
+
+138
+00:07:44,423 --> 00:07:47,414
+The button's pushed,
+voltage is applied, and it stiffens,
+
+139
+00:07:47,438 --> 00:07:50,454
+offering me a greater maneuverability
+over the bionic limb.
+
+140
+00:07:50,915 --> 00:07:52,751
+We're also building exoskeletons.
+
+141
+00:07:53,327 --> 00:07:55,582
+This exoskeleton becomes stiff and soft
+
+142
+00:07:55,607 --> 00:07:58,545
+in just the right areas
+of the running cycle,
+
+143
+00:07:58,569 --> 00:08:02,823
+to protect the biological joints
+from high impacts and degradation.
+
+144
+00:08:02,847 --> 00:08:05,633
+In the future, we'll all
+be wearing exoskeletons
+
+145
+00:08:05,657 --> 00:08:07,942
+in common activities, such as running.
+
+146
+00:08:08,966 --> 00:08:10,450
+Next, dynamic interface.
+
+147
+00:08:10,474 --> 00:08:12,982
+How do my bionic limbs
+move like flesh and bone?
+
+148
+00:08:13,799 --> 00:08:17,784
+At my MIT lab, we study how humans
+with normal physiologies
+
+149
+00:08:17,808 --> 00:08:19,313
+stand, walk and run.
+
+150
+00:08:19,338 --> 00:08:20,729
+What are the muscles doing,
+
+151
+00:08:20,753 --> 00:08:23,126
+and how are they controlled
+by the spinal cord?
+
+152
+00:08:23,697 --> 00:08:26,142
+This basic science
+motivates what we build.
+
+153
+00:08:26,166 --> 00:08:28,504
+We're building bionic ankles,
+knees and hips.
+
+154
+00:08:28,528 --> 00:08:31,044
+We're building body parts
+from the ground up.
+
+155
+00:08:31,854 --> 00:08:35,016
+The bionic limbs that I'm wearing
+are called BiOMs.
+
+156
+00:08:35,041 --> 00:08:38,995
+They've been fitted
+to nearly 1,000 patients,
+
+157
+00:08:39,019 --> 00:08:41,981
+400 of which have been
+wounded U.S. soldiers.
+
+158
+00:08:42,005 --> 00:08:43,163
+How does it work?
+
+159
+00:08:43,187 --> 00:08:45,202
+At heel strike, under computer control,
+
+160
+00:08:45,226 --> 00:08:47,202
+the system controls stiffness,
+
+161
+00:08:47,226 --> 00:08:50,263
+to attenuate the shock
+of the limb hitting the ground.
+
+162
+00:08:50,287 --> 00:08:54,383
+Then at mid-stance, the bionic limb
+outputs high torques and powers
+
+163
+00:08:54,407 --> 00:08:56,762
+to lift the person
+into the walking stride,
+
+164
+00:08:56,786 --> 00:09:00,271
+comparable to how muscles
+work in the calf region.
+
+165
+00:09:01,096 --> 00:09:04,826
+This bionic propulsion is very important
+clinically to patients.
+
+166
+00:09:04,850 --> 00:09:07,904
+So on the left, you see
+the bionic device worn by a lady,
+
+167
+00:09:07,928 --> 00:09:10,863
+on the right, a passive device
+worn by the same lady,
+
+168
+00:09:10,887 --> 00:09:13,713
+that fails to emulate
+normal muscle function,
+
+169
+00:09:13,737 --> 00:09:17,415
+enabling her to do something
+everyone should be able to do:
+
+170
+00:09:17,439 --> 00:09:19,214
+go up and down their steps at home.
+
+171
+00:09:19,634 --> 00:09:22,649
+Bionics also allows
+for extraordinary athletic feats.
+
+172
+00:09:23,149 --> 00:09:25,792
+Here's a gentleman running
+up a rocky pathway.
+
+173
+00:09:27,784 --> 00:09:30,609
+This is Steve Martin --
+not the comedian --
+
+174
+00:09:30,633 --> 00:09:33,612
+who lost his legs in a bomb blast
+in Afghanistan.
+
+175
+00:09:34,327 --> 00:09:39,194
+We're also building exoskeletal
+structures using these same principles,
+
+176
+00:09:39,218 --> 00:09:41,461
+that wrap around the biological limb.
+
+177
+00:09:42,311 --> 00:09:47,522
+This gentleman does not have
+any leg condition, any disability.
+
+178
+00:09:47,922 --> 00:09:49,802
+He has a normal physiology,
+
+179
+00:09:49,826 --> 00:09:54,395
+so these exoskeletons are applying
+muscle-like torques and powers,
+
+180
+00:09:54,419 --> 00:09:58,119
+so that his own muscles need not
+apply those torques and powers.
+
+181
+00:09:59,079 --> 00:10:04,477
+This is the first exoskeleton in history
+that actually augments human walking.
+
+182
+00:10:04,501 --> 00:10:07,305
+It significantly reduces metabolic cost.
+
+183
+00:10:07,668 --> 00:10:10,382
+It's so profound in its augmentation,
+
+184
+00:10:10,406 --> 00:10:13,555
+that when a normal, healthy person
+wears the device for 40 minutes
+
+185
+00:10:13,579 --> 00:10:15,277
+and then takes it off,
+
+186
+00:10:15,302 --> 00:10:19,357
+their own biological legs feel
+ridiculously heavy and awkward.
+
+187
+00:10:20,039 --> 00:10:23,449
+We're beginning the age in which
+machines attached to our bodies
+
+188
+00:10:23,474 --> 00:10:26,484
+will make us stronger
+and faster and more efficient.
+
+189
+00:10:27,699 --> 00:10:29,445
+Moving on to electrical interface:
+
+190
+00:10:29,470 --> 00:10:32,627
+How do my bionic limbs communicate
+with my nervous system?
+
+191
+00:10:32,651 --> 00:10:34,492
+Across my residual limb are electrodes
+
+192
+00:10:34,517 --> 00:10:37,262
+that measure the electrical
+pulse of my muscles.
+
+193
+00:10:37,286 --> 00:10:39,204
+That's communicated to the bionic limb,
+
+194
+00:10:39,229 --> 00:10:42,282
+so when I think about moving
+my phantom limb,
+
+195
+00:10:42,306 --> 00:10:45,020
+the robot tracks those movement desires.
+
+196
+00:10:46,020 --> 00:10:50,262
+This diagram shows fundamentally
+how the bionic limb is controlled.
+
+197
+00:10:50,670 --> 00:10:53,074
+So we model the missing biological limb,
+
+198
+00:10:53,099 --> 00:10:55,913
+and we've discovered
+what reflexes occurred,
+
+199
+00:10:55,937 --> 00:10:59,278
+how the reflexes of the spinal cord
+are controlling the muscles.
+
+200
+00:10:59,302 --> 00:11:04,199
+And that capability is embedded
+in the chips of the bionic limb.
+
+201
+00:11:05,009 --> 00:11:08,969
+What we've done, then, is we modulate
+the sensitivity of the reflex,
+
+202
+00:11:08,993 --> 00:11:12,088
+the modeled spinal reflex,
+with the neural signal,
+
+203
+00:11:12,112 --> 00:11:15,540
+so when I relax my muscles
+in my residual limb,
+
+204
+00:11:15,565 --> 00:11:18,412
+I get very little torque and power,
+
+205
+00:11:18,436 --> 00:11:21,157
+but the more I fire my muscles,
+the more torque I get,
+
+206
+00:11:21,181 --> 00:11:22,593
+and I can even run.
+
+207
+00:11:24,014 --> 00:11:28,958
+And that was the first demonstration
+of a running gait under neural command.
+
+208
+00:11:28,982 --> 00:11:30,134
+Feels great.
+
+209
+00:11:30,158 --> 00:11:35,324
+(Applause)
+
+210
+00:11:36,149 --> 00:11:37,534
+We want to go a step further.
+
+211
+00:11:37,558 --> 00:11:40,605
+We want to actually close the loop
+
+212
+00:11:40,629 --> 00:11:43,865
+between the human
+and the bionic external limb.
+
+213
+00:11:44,407 --> 00:11:45,558
+We're doing experiments
+
+214
+00:11:45,582 --> 00:11:48,051
+where we're growing nerves,
+transected nerves,
+
+215
+00:11:48,075 --> 00:11:50,105
+through channels, or micro-channel arrays.
+
+216
+00:11:50,129 --> 00:11:51,823
+On the other side of the channel,
+
+217
+00:11:51,847 --> 00:11:54,175
+the nerve then attaches to cells,
+
+218
+00:11:54,200 --> 00:11:56,108
+skin cells and muscle cells.
+
+219
+00:11:56,926 --> 00:12:01,046
+In the motor channels, we can sense
+how the person wishes to move.
+
+220
+00:12:01,070 --> 00:12:04,707
+That can be sent out wirelessly
+to the bionic limb,
+
+221
+00:12:04,731 --> 00:12:07,112
+then [sensory information]
+on the bionic limb
+
+222
+00:12:07,137 --> 00:12:10,637
+can be converted to stimulations
+in adjacent channels,
+
+223
+00:12:10,662 --> 00:12:11,894
+sensory channels.
+
+224
+00:12:11,918 --> 00:12:15,946
+So when this is fully developed
+and for human use,
+
+225
+00:12:15,970 --> 00:12:18,606
+persons like myself will not only have
+
+226
+00:12:18,630 --> 00:12:22,163
+synthetic limbs that move
+like flesh and bone,
+
+227
+00:12:22,187 --> 00:12:24,949
+but actually feel like flesh and bone.
+
+228
+00:12:26,187 --> 00:12:28,177
+This video shows Lisa Mallette,
+
+229
+00:12:28,201 --> 00:12:30,852
+shortly after being fitted
+with two bionic limbs.
+
+230
+00:12:31,471 --> 00:12:34,964
+Indeed, bionics is making
+a profound difference in people's lives.
+
+231
+00:12:34,988 --> 00:12:36,741
+(Video) Lisa Mallette: Oh my God.
+
+232
+00:12:39,519 --> 00:12:42,654
+LM: Oh my God, I can't believe it!
+
+233
+00:12:42,678 --> 00:12:44,121
+(Video) (Laughter)
+
+234
+00:12:44,145 --> 00:12:47,093
+LM: It's just like I've got a real leg!
+
+235
+00:12:49,237 --> 00:12:50,831
+Woman: Now, don't start running.
+
+236
+00:12:50,855 --> 00:12:53,649
+Man: Now turn around,
+and do the same thing walking up,
+
+237
+00:12:53,673 --> 00:12:57,402
+but get on your heel to toe, like you
+would normally just walk on level ground.
+
+238
+00:12:57,426 --> 00:12:59,252
+Try to walk right up the hill.
+
+239
+00:13:01,411 --> 00:13:03,513
+LM: Oh my God.
+
+240
+00:13:04,037 --> 00:13:05,283
+Man: Is it pushing you up?
+
+241
+00:13:05,307 --> 00:13:10,262
+LM: Yes! I'm not even --
+I can't even describe it.
+
+242
+00:13:10,286 --> 00:13:11,799
+Man: It's pushing you right up.
+
+243
+00:13:12,608 --> 00:13:15,156
+Hugh Herr: Next week,
+I'm visiting the Center --
+
+244
+00:13:15,180 --> 00:13:16,332
+Thank you. Thank you.
+
+245
+00:13:16,356 --> 00:13:19,862
+(Applause)
+
+246
+00:13:19,886 --> 00:13:21,169
+Thank you.
+
+247
+00:13:21,193 --> 00:13:25,018
+Next week I'm visiting the Center
+for Medicare and Medicaid Services,
+
+248
+00:13:25,042 --> 00:13:27,645
+and I'm going to try to convince CMS
+
+249
+00:13:27,669 --> 00:13:30,223
+to grant appropriate
+code language and pricing,
+
+250
+00:13:30,248 --> 00:13:33,979
+so this technology can be made available
+to the patients that need it.
+
+251
+00:13:34,003 --> 00:13:35,026
+(Applause)
+
+252
+00:13:35,050 --> 00:13:36,209
+Thank you.
+
+253
+00:13:36,234 --> 00:13:39,849
+(Applause)
+
+254
+00:13:39,873 --> 00:13:43,817
+It's not well appreciated,
+but over half of the world's population
+
+255
+00:13:43,841 --> 00:13:48,608
+suffers from some form of cognitive,
+emotional, sensory or motor condition,
+
+256
+00:13:48,632 --> 00:13:53,041
+and because of poor technology,
+too often, conditions result in disability
+
+257
+00:13:53,066 --> 00:13:54,701
+and a poorer quality of life.
+
+258
+00:13:55,113 --> 00:14:00,053
+Basic levels of physiological function
+should be a part of our human rights.
+
+259
+00:14:00,077 --> 00:14:04,033
+Every person should have the right
+to live life without disability
+
+260
+00:14:04,057 --> 00:14:05,954
+if they so choose --
+
+261
+00:14:05,978 --> 00:14:08,699
+the right to live life
+without severe depression;
+
+262
+00:14:08,724 --> 00:14:12,105
+the right to see a loved one,
+in the case of seeing-impaired;
+
+263
+00:14:12,129 --> 00:14:14,018
+or the right to walk or to dance,
+
+264
+00:14:14,042 --> 00:14:16,799
+in the case of limb paralysis
+or limb amputation.
+
+265
+00:14:17,633 --> 00:14:21,299
+As a society, we can
+achieve these human rights,
+
+266
+00:14:21,323 --> 00:14:26,817
+if we accept the proposition
+that humans are not disabled.
+
+267
+00:14:27,794 --> 00:14:29,714
+A person can never be broken.
+
+268
+00:14:30,500 --> 00:14:33,175
+Our built environment, our technologies,
+
+269
+00:14:33,199 --> 00:14:35,074
+are broken and disabled.
+
+270
+00:14:35,444 --> 00:14:38,476
+We the people need not
+accept our limitations,
+
+271
+00:14:38,500 --> 00:14:42,197
+but can transcend disability
+through technological innovation.
+
+272
+00:14:42,599 --> 00:14:46,559
+Indeed, through fundamental advances
+in bionics in this century,
+
+273
+00:14:46,583 --> 00:14:50,741
+we will set the technological foundation
+for an enhanced human experience,
+
+274
+00:14:50,765 --> 00:14:52,702
+and we will end disability.
+
+275
+00:14:53,456 --> 00:14:57,011
+I'd like to finish up
+with one more story, a beautiful story.
+
+276
+00:14:57,613 --> 00:14:59,630
+The story of Adrianne Haslet-Davis.
+
+277
+00:15:00,360 --> 00:15:04,198
+Adrianne lost her left leg
+in the Boston terrorist attack.
+
+278
+00:15:04,766 --> 00:15:08,721
+I met Adrianne when this photo was taken,
+at Spaulding Rehabilitation Hospital.
+
+279
+00:15:08,745 --> 00:15:11,221
+Adrianne is a dancer, a ballroom dancer.
+
+280
+00:15:11,245 --> 00:15:13,858
+Adrianne breathes and lives dance.
+
+281
+00:15:14,366 --> 00:15:16,636
+It is her expression. It is her art form.
+
+282
+00:15:16,660 --> 00:15:20,659
+Naturally, when she lost her limb
+in the Boston terrorist attack,
+
+283
+00:15:20,683 --> 00:15:22,850
+she wanted to return to the dance floor.
+
+284
+00:15:23,828 --> 00:15:25,987
+After meeting her
+and driving home in my car,
+
+285
+00:15:26,011 --> 00:15:29,863
+I thought, I'm an MIT professor.
+I have resources.
+
+286
+00:15:29,888 --> 00:15:31,426
+Let's build her a bionic limb,
+
+287
+00:15:31,450 --> 00:15:34,380
+to enable her to go back
+to her life of dance.
+
+288
+00:15:35,396 --> 00:15:38,872
+I brought in MIT scientists
+with expertise in prosthetics,
+
+289
+00:15:38,896 --> 00:15:41,204
+robotics, machine learning
+and biomechanics,
+
+290
+00:15:41,229 --> 00:15:45,064
+and over a 200-day research period,
+we studied dance.
+
+291
+00:15:45,389 --> 00:15:49,286
+We brought in dancers
+with biological limbs,
+
+292
+00:15:49,310 --> 00:15:51,944
+and we studied how they move,
+
+293
+00:15:51,969 --> 00:15:55,142
+what forces they apply on the dance floor,
+
+294
+00:15:55,166 --> 00:15:56,693
+and we took those data,
+
+295
+00:15:56,717 --> 00:16:00,492
+and we put forth
+fundamental principles of dance,
+
+296
+00:16:00,516 --> 00:16:02,303
+reflexive dance capability,
+
+297
+00:16:02,327 --> 00:16:05,492
+and we embedded that intelligence
+into the bionic limb.
+
+298
+00:16:05,992 --> 00:16:09,737
+Bionics is not only about making
+people stronger and faster.
+
+299
+00:16:09,761 --> 00:16:15,173
+Our expression, our humanity
+can be embedded into electromechanics.
+
+300
+00:16:15,520 --> 00:16:21,295
+It was 3.5 seconds between the bomb blasts
+in the Boston terrorist attack.
+
+301
+00:16:21,733 --> 00:16:27,295
+In 3.5 seconds, the criminals and cowards
+took Adrianne off the dance floor.
+
+302
+00:16:27,860 --> 00:16:30,026
+In 200 days, we put her back.
+
+303
+00:16:30,495 --> 00:16:35,468
+We will not be intimidated, brought down,
+diminished, conquered or stopped
+
+304
+00:16:35,492 --> 00:16:37,036
+by acts of violence.
+
+305
+00:16:37,061 --> 00:16:43,997
+(Applause)
+
+306
+00:16:45,046 --> 00:16:49,348
+Ladies and gentlemen, please allow me
+to introduce Adrianne Haslet-Davis,
+
+307
+00:16:49,372 --> 00:16:51,602
+her first performance since the attack.
+
+308
+00:16:52,380 --> 00:16:54,516
+She's dancing with Christian Lightner.
+
+309
+00:16:54,541 --> 00:17:01,233
+(Applause)
+
+310
+00:17:05,579 --> 00:17:11,694
+(Music: "Ring My Bell"
+performed by Enrique Iglesias)
+
+311
+00:17:51,267 --> 00:17:58,037
+(Applause)
+
+312
+00:18:22,170 --> 00:18:24,938
+Ladies and gentlemen,
+members of the research team:
+
+313
+00:18:24,962 --> 00:18:26,956
+Elliott Rouse
+
+314
+00:18:26,981 --> 00:18:29,377
+and Nathan Villagaray-Carski.
+
+315
+00:18:29,776 --> 00:18:32,163
+Elliott and Nathan.
+
+316
+00:18:32,187 --> 00:18:38,772
+(Applause)
+
