@@ -43,6 +43,16 @@ DEFAULT_MAX_VIDEOS = 5
 DEFAULT_OUTPUT_ROOT = "outputs"
 
 
+def _env(key: str, default):
+    """Return env var value, or `default` if the var is unset or empty.
+
+    GitHub Actions passes unset workflow_dispatch inputs as empty strings,
+    so `os.environ.get(key, default)` alone is not enough — empty must
+    also fall back to the default.
+    """
+    return os.environ.get(key) or default
+
+
 def parse_args() -> argparse.Namespace:
     p = argparse.ArgumentParser(
         description="Fetch recent YouTube videos from a channel and save transcripts + analysis.",
@@ -50,23 +60,23 @@ def parse_args() -> argparse.Namespace:
     )
     p.add_argument(
         "--channel-url",
-        default=os.environ.get("CHANNEL_URL", DEFAULT_CHANNEL_URL),
+        default=_env("CHANNEL_URL", DEFAULT_CHANNEL_URL),
         help="Channel URL. Accepts /@handle, /channel/UC..., /c/name, /user/name (with or without /videos).",
     )
     p.add_argument(
         "--max-videos",
         type=int,
-        default=int(os.environ.get("MAX_VIDEOS", DEFAULT_MAX_VIDEOS)),
+        default=int(_env("MAX_VIDEOS", DEFAULT_MAX_VIDEOS)),
         help="Max recent videos to scan.",
     )
     p.add_argument(
         "--languages",
-        default=os.environ.get("LANGUAGES", DEFAULT_LANGUAGES),
+        default=_env("LANGUAGES", DEFAULT_LANGUAGES),
         help="Comma-separated transcript language codes, in preference order.",
     )
     p.add_argument(
         "--output-root",
-        default=os.environ.get("OUTPUT_ROOT", DEFAULT_OUTPUT_ROOT),
+        default=_env("OUTPUT_ROOT", DEFAULT_OUTPUT_ROOT),
         help="Root directory for outputs. A date subfolder is created inside.",
     )
     return p.parse_args()
