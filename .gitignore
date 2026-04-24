@@ -386,6 +386,9 @@ env/
 .DS_Store
 Thumbs.db
 
+# Claude Code per-user settings
+.claude/settings.local.json
+
 ## ------------------------------------------------------------
 ## Bot output (not committed — retrieve via Actions artifacts)
 ## ------------------------------------------------------------
