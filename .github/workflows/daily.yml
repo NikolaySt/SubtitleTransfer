@@ -20,9 +20,6 @@ on:
         required: false
         type: string
 
-permissions:
-  contents: write
-
 jobs:
   run:
     runs-on: ubuntu-latest
@@ -45,19 +42,7 @@ jobs:
           LANGUAGES:   ${{ inputs.languages   || vars.LANGUAGES }}
         run: python src/python/youtube_transcript_bot.py
 
-      - name: Commit outputs
-        run: |
-          git config user.name  "transcript-bot"
-          git config user.email "bot@users.noreply.github.com"
-          git add outputs/
-          if git diff --cached --quiet; then
-            echo "No new transcripts."
-          else
-            git commit -m "Daily transcripts: $(date -u +%Y-%m-%d)"
-            git push
-          fi
-
-      - name: Upload artifact (backup)
+      - name: Upload artifact
         if: always()
         uses: actions/upload-artifact@v4
         with:

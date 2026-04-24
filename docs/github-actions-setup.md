@@ -33,18 +33,15 @@ Public repos get unlimited Actions minutes; private repos get ~2000 free minutes
 
 ---
 
-## 3. Workflow permissions (optional)
+## 3. Workflow permissions
 
-Because `outputs/` is gitignored, the workflow's **Commit outputs** step is effectively a no-op (`git add` skips ignored paths) and no push happens — so no elevated permissions are strictly required. The default `GITHUB_TOKEN` is fine.
+The workflow only reads and uploads artifacts — no commits, no pushes. The default `GITHUB_TOKEN` is sufficient; no settings change required.
 
-If you later decide to commit transcripts into the repo, un-ignore `outputs/` in [.gitignore](../.gitignore) and enable write permissions:
+If you later decide to commit transcripts into the repo instead of relying on artifacts:
 
-1. Repo → **Settings** → **Actions** → **General**
-2. Scroll to **Workflow permissions**
-3. Select **"Read and write permissions"**
-4. Click **Save**
-
-Without both (un-ignore + write permission), the `git push` in the workflow will either fail with a 403 or silently commit nothing.
+1. Un-ignore `outputs/` in [.gitignore](../.gitignore).
+2. Re-add a commit/push step to [.github/workflows/daily.yml](../.github/workflows/daily.yml) plus a top-level `permissions: contents: write` block.
+3. Repo → **Settings** → **Actions** → **General** → **Workflow permissions** → **"Read and write permissions"** → **Save**.
 
 ---
 
@@ -90,7 +87,6 @@ Before waiting for the cron:
 
 Watch the run:
 - **Run bot** step should log the channel, list videos, and save new ones.
-- **Commit outputs** step prints `No new transcripts.` (expected — `outputs/` is gitignored).
 - **Upload artifact** step produces a downloadable `transcripts-<run_id>.zip`.
 
 After it finishes, go to the run page → **Artifacts** panel at the bottom → download `transcripts-<run_id>` and extract `outputs/<channel_slug>/<YYYY-MM-DD>/`.
@@ -134,7 +130,7 @@ To change the schedule, edit the `cron:` line in [.github/workflows/daily.yml](.
 
 | Symptom                                                   | Fix                                                                                              |
 |-----------------------------------------------------------|--------------------------------------------------------------------------------------------------|
-| `Permission to ... denied to github-actions[bot]` on push | Only relevant if you un-ignored `outputs/` to commit files. See Step 3.                          |
+| `Permission to ... denied to github-actions[bot]` on push | Only applies if you re-added a commit/push step. See Step 3.                                     |
 | Artifact is empty / missing                               | The bot found no videos or no transcripts for the day; check the **Run bot** log.               |
 | `No videos found.`                                        | Channel URL is wrong or private. Test locally: `python src/python/youtube_transcript_bot.py --channel-url …`. |
 | `(no transcript available, skipping)` for every video     | Either the channel disables captions, your `LANGUAGES` don't match, or YouTube rate-limited. Wait and retry or add `auto-generated` languages. |
