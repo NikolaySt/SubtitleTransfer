@@ -361,3 +361,33 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+## ------------------------------------------------------------
+## Python (src/python/)
+## ------------------------------------------------------------
+
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtualenvs
+.venv/
+venv/
+env/
+
+# Editor / OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+## ------------------------------------------------------------
+## Bot output (not committed — retrieve via Actions artifacts)
+## ------------------------------------------------------------
+
+outputs/
